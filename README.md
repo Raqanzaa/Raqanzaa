@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi👋, I'm Ahmad Rozaq Ubaidillah</h1>
 
 ###
 
@@ -74,8 +74,4 @@
   <img src="https://streak-stats.demolab.com?user=Raqanzaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Raqanzaa/Raqanzaa/output/snake.svg" alt="Snake animation" />
-
-###
