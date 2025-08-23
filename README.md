@@ -6,30 +6,36 @@
 
 ###
 
-<div align="center">
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">📚 I'm currently learning about automation concepts, including the use of AI and AI Agents in app development. <br>🎯 Goals: To deliver functional and sustainable digital solutions. <br>🎲 Fun fact: Once developed a village website that became the primary tool for information transparency and public services at the village level through a Community Service Program</p>
+
+###
+
+<h3 align="left">Social Media</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <a href="https://id.linkedin.com/in/ahmadrozaq" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="32" alt="gmail logo"  />
   <a href="https://www.instagram.com/a.rozaq_u/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="32" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/6283849826116" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="32" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="32" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">TechStack</h2>
+<h3 align="left">TechStack</h3>
 
 ###
 
