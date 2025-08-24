@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning about automation concepts, including the use of AI and AI Agents in app development. <br>🎯 Goals: To deliver functional and sustainable digital solutions. <br>🎲 Fun fact: Once developed a village website that became the primary tool for information transparency and public services at the village level through a Community Service Program</p>
+<p align="left">📚 I'm currently learning about automation concepts, including the use of AI and AI Agents in app development. <br>🎯 Goals: To deliver functional and sustainable digital solutions.
 
 ###
 
