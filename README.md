@@ -18,7 +18,7 @@
 🌱 Always learning and exploring new technologies to sharpen my skills.
 </p>
 
-###
+<br><br>
 
 <h3 align="left">🤝 Connect with Me</h3>
 
@@ -37,15 +37,13 @@
 </a>
 </div>
 
-###
+<br><br>
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
 ###
 
-<h3 align="left">🚀 Frontend & Mobile</h3>
-
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
@@ -53,11 +51,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
-</p>
-
-<h3 align="left">⚙️ Backend & Frameworks</h3>
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" title="PHP" />
@@ -69,11 +62,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" title="Django" />
-</p>
-
-<h3 align="left">🗄️ Databases & DevOps</h3>
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" title="Oracle" />
@@ -81,15 +69,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
 </p>
 
+<br><br>
+
 <h3 align="left">📊 GitHub Analytics</h3>
 
 <div align="center">
 <a href="https://github.com/Raqanzaa">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="100%" />
 </a>
 <br>
 <a href="https://github.com/Raqanzaa">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="100%" />
 </a>
 </div>
 
