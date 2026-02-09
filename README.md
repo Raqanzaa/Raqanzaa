@@ -4,7 +4,6 @@
 
 <h3 align="left">🪐 About Me</h3>
 
-###
 
 <p align="left">
 🔭 I’m currently developing and maintaining a <b>SIMRS</b> as a <b>Full Stack Developer</b>.
@@ -18,13 +17,13 @@
 🌱 Always learning and exploring new technologies to sharpen my skills.
 </p>
 
-<br><br>
+<br>
 
 <h3 align="left">🤝 Connect with Me</h3>
 
 <div align="left">
 <a href="https://id.linkedin.com/in/ahmadrozaq" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:your-email@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
@@ -33,15 +32,13 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 <a href="https://wa.me/6283849826116" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="whatsapp" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="left">🛠 Languages & Tools</h3>
-
-###
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
@@ -79,7 +76,7 @@
 </a>
 <br>
 <a href="https://github.com/Raqanzaa">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="70%" />
 </a>
 </div>
 
