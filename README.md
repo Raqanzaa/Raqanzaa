@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/demo/%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D61DAFB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHey%2Bthere!%2B%25F0%259F%2591%258B%2BWhat%27s%2Bup%253F%3BMy%2Bname%2Bis%2BAhmad%2BRozaq%2BUbadillah%3BI%27m%2Ba%2BFullStack%2BDeveloper%2Bfrom%2BIndonesia" alt="Typing SVG" />
+<h1><img src="https://readme-typing-svg.herokuapp.com/demo/?color=F7F7F7&lines=Hey+%F0%9F%91%8B+What's+up%3F;My+name+is+Ahmad+Rozaq+Ubadillah+and+I'm+a+Web+FullStack+Developer%2C+from+Indonesia"></h1>
 </div>
 
 🪐 About Me
@@ -22,7 +22,7 @@
 
 <div align="left">
 <a href="https://id.linkedin.com/in/ahmadrozaq" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" />
 </a>
 <a href="mailto:your-email@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 <a href="https://wa.me/6283849826116" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="whatsapp" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="whatsapp" />
 </a>
 </div>
 
@@ -80,7 +80,7 @@
 <div align="center">
 <a href="https://github.com/Raqanzaa">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="48%" />
-</a>
+</a><br>
 <a href="https://github.com/Raqanzaa">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="48%" />
 </a>
