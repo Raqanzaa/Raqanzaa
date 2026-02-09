@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="https://readme-typing-svg.herokuapp.com/demo/?color=F7F7F7&lines=Hey+%F0%9F%91%8B+What's+up%3F;My+name+is+Ahmad+Rozaq+Ubadillah+and+I'm+a+Web+FullStack+Developer%2C+from+Indonesia"></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F7F7F7&pause=500&size=25&center=false&vCenter=true&width=900&height=50&lines=&#10022+Hi!+Whats+Up+👋;&#10022+My+name+is+Ahmad+Rozaq+Ubadillah+👋;&#10022+I'm+a+Web+FullStack+Developer%2C+from+Indonesia.;;"></h1>
 </div>
 
 🪐 About Me
