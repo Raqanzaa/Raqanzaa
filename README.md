@@ -21,7 +21,7 @@
 
 <h3 align="left">🤝 Connect with Me</h3>
 
-<div align="left">
+<div align="center">
 <a href="https://id.linkedin.com/in/ahmadrozaq" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
