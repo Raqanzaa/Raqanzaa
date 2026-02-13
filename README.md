@@ -72,7 +72,7 @@
 
 <div align="center">
 <a href="https://github.com/Raqanzaa">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="50%" />
 </a>
 <br>
 <a href="https://github.com/Raqanzaa">
