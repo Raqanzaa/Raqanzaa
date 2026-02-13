@@ -72,11 +72,11 @@
 
 <div align="center">
 <a href="https://github.com/Raqanzaa">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="50%" />
 </a>
 <br>
 <a href="https://github.com/Raqanzaa">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raqanzaa&theme=react&fire=7F3FBF&background=0D1117" alt="Streak Stats" width="70%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raqanzaa&theme=react" alt="Profile Details" width="70%" />
 </a>
 </div>
 
